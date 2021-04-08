@@ -1,7 +1,7 @@
 # the Project of interest of Southwest University of Finance and Economics 
 ## the name of project:Recent Advances and New Guidelines on rain streaks removal
 ### Project instructor：Jiang Taixiang 
-#### This list is maintained by:Qin Lingkang.And the Information providers:Huang Jie,Wang Weisong and Zhang Jiawei.
+#### This list is maintained by:Qin Lingkang.And the Information providers:Fang Jiawei,Huang Jie and Wang Weisong.
 
 ### Related literature:
 1.Ye-Tao Wang;Xi-Le Zhao;Tai-Xiang Jiang;Liang-Jian Deng;Yi Chang;Ting-Zhu Huang,"Rain Streaks Removal for Single Image via Kernel-Guided Convolutional Neural Network" IEEE 2020.[[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9173811) ,[[code]](https://github.com/owuchangyuo/owuchangyuo.github.io/find/2fa2c7121938f1f4a390d510c5febaaf1b264987)</br> 
