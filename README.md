@@ -9,3 +9,9 @@
 4.Style transfer[[link&code1]](https://blog.csdn.net/czp_374/article/details/81185603?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161787187016780366589170%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=161787187016780366589170&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-4-81185603.first_rank_v2_pc_rank_v29&utm_term=%E9%A3%8E%E6%A0%BC%E8%BF%81%E7%A7%BB),[[link&code2]](https://blog.csdn.net/qq_34470213/article/details/80793830)</br> 
 5.WeChat small program automatically generated poster part of the code display[[link&code]](https://blog.csdn.net/wh13267207590/article/details/80761632)</br> 
 6.Understanding Deep Image Representations by Inverting Them[[link&code]](https://github.com/aravindhm/deep-goggle.git)</br> 
+7.Fully Convolutional Networks for Semantic Segmentation[[link&code]](https://github.com/shekkizh/FCN.tensorflow.g)</br> 
+8.Caffe: Convolutional architecture for fast feature embedding[[link&code]](https://github.com/Geekrick88/ofxCaffe.git)</br> 
+9.Texture Synthesis Using Convolutional Neural Networks [[link&code]](https://github.com/mohamedkeid/Texture-Synthesis.git)</br> 
+10.Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture[[link&code]](https://github.com/Rostifar/NYUDepthNet.git)</br> 
+11.Deep filter banks for texture recognition and segmentation[[link&code]](https://github.com/mcimpoi/deep-fbanks.git)</br>
+12.Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs [[link&code]](https://github.com/wangleihitcs/DeepLab-V1-PyTorch.git)</br> 
